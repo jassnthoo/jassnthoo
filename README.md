@@ -6,6 +6,6 @@
 
 
 <div style="text-align:justify"> <b>
-🥇 Currently, I am a sophomore at the University of Information Technology - VNUHCM, majoring in Bridge Software Engineering (BrSE). My goal in studying Information Technology is to become an expert in this field. I have a keen interest in network thinking, especially APIs, which has inspired me to delve deeper into my major. With a passion for and research in digital technology, I am always searching for good opportunities to improve myself. In the future, I aspire to become a Bridge Software Engineer to pursue my passion. I hope this introduction helps you understand my project and leaves a lasting impression. Thank you for your attention!
+🥇 Currently, I am a sophomore at the University of Information Technology - VNUHCM, majoring in Bridge Software Engineering(BrSE). My goal in studying Information Technology is to become an expert in this field. I have a keen interest in network thinking, especially APIs, which has inspired me to delve deeper into my major. With a passion for and research in digital technology, I am always searching for good opportunities to improve myself. In the future, I aspire to become a Bridge Software Engineer to pursue my passion. I hope this introduction helps you understand my project and leaves a lasting impression. Thank you for your attention!
 
 ---
